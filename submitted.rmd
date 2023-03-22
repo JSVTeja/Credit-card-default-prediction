@@ -1,9 +1,4 @@
----
-title: "project-1-final"
-author: "Rohith Kanakagiri"
-date: "28/10/2021"
-output: word_document
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
